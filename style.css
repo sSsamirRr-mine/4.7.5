@@ -1,0 +1,21 @@
+@media(max-width:1024px){
+    *{
+        flex-wrap: wrap;
+    }
+}
+
+@media(max-width:768px){
+
+    nav>a>img, nav>a{
+       display: block;
+    }
+
+    .a{
+        display: none;
+    }
+
+}
+
+nav>a>img, nav>a{
+    display: none;
+}
